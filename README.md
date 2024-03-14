@@ -5,9 +5,11 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><img align="right" alt="GIF" src="https://github.com/OmerAygunn/omeraygunn/assets/148325073/259aee5f-7a38-431e-9eaa-b2e4103809cc"/></summary>
+    <summary><img align="right" alt="GIF" src="https://github.com/OmerAygunn/omeraygunn/assets/148325073/b3c98cee-da9d-42fb-984e-472ca88a8157"/></summary>
   </ul>
 </div>
+
+
 
 <br/>
 <br/>
@@ -24,15 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning ****
+- ☁️ I've been interest in backend. So,I'm learning...
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Nodejs, react, flutter, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out ****
+- 📫 Feel free to reach me out **omeraygun438@gmail.com**
 
 <!--Intro end-->
 
@@ -96,9 +98,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com//" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/omer-aygun-12083a278/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
